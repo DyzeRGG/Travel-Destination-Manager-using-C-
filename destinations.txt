@@ -1,0 +1,138 @@
+Sri Lanka|Colombo|3|Iconic street food at Galle Face Green|4.6|8
+Sri Lanka|Colombo|5|Pettah Market – best place for spices & clothes|4.4|25
+Sri Lanka|Colombo|1|Gangaramaya Temple – beautiful lakeside temple|4.7|5
+Sri Lanka|Colombo|4|Cinnamon Grand – luxury stay in heart of city|4.8|180
+Sri Lanka|Colombo|6|Dutch Hospital Shopping Precinct – trendy cafes|4.5|15
+Sri Lanka|Kandy|1|Temple of the Sacred Tooth Relic|4.9|10
+Sri Lanka|Kandy|3|Traditional Kandyan dance show & dinner|4.7|20
+Sri Lanka|Kandy|2|Udawatta Kele Sanctuary forest walk|4.5|8
+Sri Lanka|Kandy|4|Earl’s Regency – hilltop luxury hotel|4.8|150
+Sri Lanka|Kandy|5|Kandy City Centre – souvenirs & batik|4.3|30
+Sri Lanka|Galle|1|Galle Fort – UNESCO World Heritage Site|4.9|0
+Sri Lanka|Galle|3|Pedlar Street cafés & fresh seafood|4.6|18
+Sri Lanka|Galle|5|Lighthouse Street antique & jewellery shops|4.4|40
+Sri Lanka|Galle|4|Fort Printers – boutique heritage hotel|4.8|220
+Sri Lanka|Galle|2|Moonlight whale & dolphin watching tour|4.7|55
+Sri Lanka|Ella|1|Ella Rock sunrise viewpoint|4.9|0
+Sri Lanka|Ella|2|Nine Arch Bridge train spotting|4.8|5
+Sri Lanka|Ella|3|Ramboda Falls & local rice & curry|4.6|12
+Sri Lanka|Ella|4|98 Acres Resort & Spa – stunning views|4.9|180
+Sri Lanka|Ella|5|Little Folly – handmade jewellery & crafts|4.5|35
+Sri Lanka|Nuwara Eliya|1|Hakgala Botanical Garden|4.7|6
+Sri Lanka|Nuwara Eliya|3|High tea at Grand Hotel|4.6|22
+Sri Lanka|Nuwara Eliya|2|Gregory Lake boating & pony ride|4.5|15
+Sri Lanka|Nuwara Eliya|4|Heritage Grand Hotel – colonial charm|4.7|140
+Sri Lanka|Nuwara Eliya|5|Victoria Park – fresh strawberries & veggies|4.4|10
+Sri Lanka|Sigiriya|1|Sigiriya Rock Fortress – Lion Rock|4.9|30
+Sri Lanka|Sigiriya|2|Pidurangala Rock sunset climb|4.8|5
+Sri Lanka|Sigiriya|3|Local village cooking class|4.6|25
+Sri Lanka|Sigiriya|4|Jetwing Vil Uyana – eco-luxury villas|4.9|250
+Sri Lanka|Sigiriya|1|Dambulla Cave Temple|4.8|6
+Sri Lanka|Yala|2|Jeep safari – leopards & elephants|4.9|45
+Sri Lanka|Yala|1|Kataragama Temple pilgrimage site|4.6|0
+Sri Lanka|Yala|3|Fresh grilled fish at beachside|4.5|18
+Sri Lanka|Yala|4|Wild Coast Tented Lodge – glamping|4.9|320
+Sri Lanka|Mirissa|2|Whale watching boat trip|4.8|50
+Sri Lanka|Mirissa|3|Coconut Tree Hill sunrise café|4.7|10
+Sri Lanka|Mirissa|5|Secret Beach souvenir stalls|4.4|20
+Sri Lanka|Mirissa|4|Paradise Beach Club – oceanfront stay|4.6|110
+Sri Lanka|Mirissa|1|Parrot Rock viewpoint|4.5|0
+Sri Lanka|Unawatuna|3|Jungle Beach seafood restaurants|4.7|16
+Sri Lanka|Unawatuna|2|Snorkeling & turtle watching|4.6|35
+Sri Lanka|Unawatuna|5|Galle Road shops & surf gear|4.4|25
+Sri Lanka|Unawatuna|4|Rockside Cabanas – beachfront huts|4.7|90
+Sri Lanka|Unawatuna|1|Japanese Peace Pagoda|4.5|0
+Sri Lanka|Bentota|2|Madu River mangrove boat safari|4.7|28
+Sri Lanka|Bentota|3|Brief Garden – Bevis Bawa’s house|4.6|12
+Sri Lanka|Bentota|4|Centara Ceysands Resort – luxury beach|4.8|160
+Sri Lanka|Bentota|5|Mask factory & turtle hatchery visit|4.5|18
+Sri Lanka|Trincomalee|1|Koneswaram Temple & Swami Rock|4.8|5
+Sri Lanka|Trincomalee|2|Pigeon Island snorkeling & diving|4.7|40
+Sri Lanka|Trincomalee|3|Nilaveli Beach fresh crab dinner|4.6|22
+Sri Lanka|Trincomalee|4|Trinco Blu by Cinnamon – beach resort|4.8|130
+Sri Lanka|Trincomalee|5|Uppuveli souvenir & handicraft market|4.4|30
+Sri Lanka|Anuradhapura|1|Ancient city – Ruwanwelisaya stupa|4.9|8
+Sri Lanka|Anuradhapura|1|Sacred Bo Tree (Sri Maha Bodhi)|4.8|0
+Sri Lanka|Anuradhapura|3|Local hoppers & kottu at night market|4.5|10
+Sri Lanka|Anuradhapura|4|Palm Garden Resort – peaceful stay|4.6|95
+Sri Lanka|Polonnaruwa|1|Polonnaruwa ancient kingdom ruins|4.8|15
+Sri Lanka|Polonnaruwa|1|Gal Vihara rock carvings|4.9|0
+Sri Lanka|Polonnaruwa|2|Minneriya National Park elephant safari|4.7|45
+Sri Lanka|Polonnaruwa|4|Sudu Araliya – lakeside hotel|4.6|120
+Sri Lanka|Hikkaduwa|2|Coral Sanctuary glass-bottom boat|4.6|25
+Sri Lanka|Hikkaduwa|3|Cool Spot – famous seafood restaurant|4.7|18
+Sri Lanka|Hikkaduwa|5|Coral Sands shops & surf schools|4.5|35
+Sri Lanka|Hikkaduwa|4|Citrus Hikkaduwa – beach resort|4.7|100
+Sri Lanka|Jaffna|1|Nallur Kandaswamy Temple|4.8|5
+Sri Lanka|Jaffna|3|Crab curry & palmyra toddy at local eatery|4.6|15
+Sri Lanka|Jaffna|2|Delft Island wild ponies & fort|4.5|30
+Sri Lanka|Jaffna|4|Fox River Hotel – heritage stay|4.6|85
+Sri Lanka|Kalutara|1|Gangatilaka Vihara – tallest Buddha statue|4.7|4
+Sri Lanka|Kalutara|3|Riverbank fish ambul thiyal|4.5|12
+Sri Lanka|Kalutara|5|Kalutara Bridge market – fresh fruits|4.4|10
+Sri Lanka|Kalutara|4|Tangerine Beach – family resort|4.6|110
+Sri Lanka|Negombo|3|Seafood street – lobster & prawns|4.7|20
+Sri Lanka|Negombo|2|Lagoon fishing village boat tour|4.5|18
+Sri Lanka|Negombo|5|Main Street gold & spice shops|4.4|40
+Sri Lanka|Negombo|4|Jetwing Beach – luxury oceanfront|4.8|170
+Sri Lanka|Arugam Bay|2|Surfing – Main Point & Whiskey Point|4.9|0
+Sri Lanka|Arugam Bay|3|Surf & turf BBQ at beach cafés|4.7|15
+Sri Lanka|Arugam Bay|5|Handmade surfboard & hippie shops|4.6|30
+Sri Lanka|Arugam Bay|4|The Danish Villa – surf boutique hotel|4.8|95
+Sri Lanka|Kataragama|1|Kataragama Temple pilgrimage|4.7|0
+Sri Lanka|Kataragama|3|Devotee street food – sweet pongal|4.5|8
+Sri Lanka|Kataragama|6|Blessings & pooja ceremonies|4.6|10
+Sri Lanka|Horton Plains|2|World’s End cliff & Baker’s Falls|4.8|25
+Sri Lanka|Horton Plains|1|Cloud Forest walk & wildlife spotting|4.7|15
+Sri Lanka|Knuckles Range|2|Hiking & bird watching|4.6|20
+Sri Lanka|Knuckles Range|4|Knuckles Adventure Resort – eco stay|4.7|130
+Sri Lanka|Ratnapura|5|Gem Museum & gem shopping|4.6|50
+Sri Lanka|Ratnapura|3|Local rice & curry near gem pits|4.5|12
+Sri Lanka|Badulla|1|Dhowa Rock Temple ancient paintings|4.6|5
+Sri Lanka|Badulla|2|Rawana Ella Falls & cave|4.7|8
+Sri Lanka|Batticaloa|3|Crab & lagoon prawns restaurant|4.6|18
+Sri Lanka|Batticaloa|1|Singing Fish Point mystery|4.5|0
+Sri Lanka|Mannar|2|Adam’s Bridge & Thiruketheeswaram Temple|4.6|10
+Sri Lanka|Mannar|5|Baobab tree & salt pans souvenirs|4.4|15
+Sri Lanka|Puttalam|2|Kalpitiya dolphin watching|4.8|40
+Sri Lanka|Puttalam|4|Bar Reef Resort – kitesurfing base|4.7|120
+Sri Lanka|Matara|1|Star Fort & Dondra Lighthouse|4.6|5
+Sri Lanka|Matara|3|Polhena Beach turtle feeding|4.7|0
+Sri Lanka|Matara|5|Uyanwatta market – fresh king coconut|4.5|5
+Sri Lanka|Kegalle|2|Kitulgala white-water rafting|4.8|50
+Sri Lanka|Kegalle|1|Makandawa Rainforest trek|4.7|20
+Sri Lanka|Kegalle|4|Plantation Hotel – tea estate stay|4.6|140
+Sri Lanka|Monaragala|3|Wellawaya curd & treacle shop|4.5|8
+Sri Lanka|Monaragala|1|Buduruwagala ancient rock carvings|4.6|4
+Sri Lanka|Ampara|2|Inginiyagala rock pool & lake|4.5|10
+Sri Lanka|Ampara|3|Mangrove crab & dry fish|4.4|15
+Sri Lanka|Habarana|1|Sigiriya Rock Fortress – Lion Rock climb|4.9|30
+Sri Lanka|Habarana|1|Dambulla Royal Rock Temple – cave paintings|4.8|6
+Sri Lanka|Habarana|1|Pidurangala Rock – sunrise & reclining Buddha|4.9|5
+Sri Lanka|Habarana|1|Ritigala Forest Monastery ancient ruins|4.6|4
+Sri Lanka|Habarana|1|Minneriya National Park – elephant gathering viewpoint|4.8|0
+Sri Lanka|Habarana|2|Jeep safari in Minneriya – elephants & leopards|4.9|45
+Sri Lanka|Habarana|2|Kaudulla National Park evening safari|4.7|40
+Sri Lanka|Habarana|2|Hurulu Eco Park – bird watching & nature walk|4.6|25
+Sri Lanka|Habarana|2|Elephant-back safari (ethical option)|4.5|60
+Sri Lanka|Habarana|2|Village cycling tour around Habarana Lake|4.7|18
+Sri Lanka|Habarana|3|Traditional Sri Lankan rice & curry cooking class|4.8|28
+Sri Lanka|Habarana|3|Fresh grilled fish & kottu at Habarana Lake restaurants|4.6|15
+Sri Lanka|Habarana|3|King Coconut & wood apple juice stalls|4.5|6
+Sri Lanka|Habarana|3|Local hoppers & string hoppers breakfast|4.7|10
+Sri Lanka|Habarana|3|Curd & treacle dessert at roadside shops|4.6|8
+Sri Lanka|Habarana|4|Habarana Village by Cinnamon – luxury eco resort|4.9|220
+Sri Lanka|Habarana|4|Cinnamon Lodge Habarana – wildlife surroundings|4.8|190
+Sri Lanka|Habarana|4|Jetwing Habarana Village – nature-inspired stay|4.7|160
+Sri Lanka|Habarana|4|Aliya Resort & Spa – elephant-themed luxury|4.9|280
+Sri Lanka|Habarana|4|Habarana Ambasewana Resort – budget-friendly|4.5|80
+Sri Lanka|Habarana|5|Habarana Lake souvenir shops – masks & batik|4.6|35
+Sri Lanka|Habarana|5|Local wood carvings & brassware stalls|4.5|40
+Sri Lanka|Habarana|5|Spice garden shop – cinnamon & cardamom|4.7|30
+Sri Lanka|Habarana|5|Handmade jewelry & gemstone vendors|4.4|50
+Sri Lanka|Habarana|5|Dambulla market – fresh fruits & vegetables|4.6|15
+Sri Lanka|Habarana|6|Elephant transit home visit & feeding|4.8|12
+Sri Lanka|Habarana|6|Habarana ayurvedic spa & herbal massage|4.7|45
+Sri Lanka|Habarana|6|Local tuk-tuk & taxi service around cultural triangle|4.5|20
+Sri Lanka|Habarana|6|Bird watching guide & binocular rental|4.6|25
+Sri Lanka|Habarana|7|Habarana Lake sunset photography spot|4.8|0
